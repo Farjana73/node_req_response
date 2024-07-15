@@ -1,0 +1,11 @@
+
+node js
+tools- vs code
+terminal- cmd , powershell, node
+create new node project( npm init --y )
+node.js modules
+understanding package.json
+request response model
+Understanding HTTP clients
+URL module
+jodi kono pakage delete hoye jay tahole npm i command dilei sob file chole asbe.
